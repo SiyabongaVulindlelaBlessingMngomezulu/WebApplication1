@@ -1,0 +1,8 @@
+C:\Users\username\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\username\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\username\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\username\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\username\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\username\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\username\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\username\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs

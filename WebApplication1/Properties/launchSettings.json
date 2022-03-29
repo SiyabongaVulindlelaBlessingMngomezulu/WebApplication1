@@ -1,0 +1,29 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://fyve.westeurope.cloudapp.azure.com:53312",
+      "sslPort": 44380
+    }
+  },
+  "profiles": {
+    "WebApplication1": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "fyve.westeurope.cloudapp.azure.com",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      },
+      "applicationUrl": "https://fyve.westeurope.cloudapp.azure.com:7243;http://fyve.westeurope.cloudapp.azure.com:5243",
+      "dotnetRunMessages": true
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

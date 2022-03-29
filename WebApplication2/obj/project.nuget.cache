@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "neUCd2yRlWleQrRRVAeijdSAy8YZilUW7d8JzIFCO9o4D1iaquqvAngCBUQMHM+cFcntoAz92QoGTkB5oOxipg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\username\\source\\repos\\WebApplication1\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\username\\.nuget\\packages\\taglibsharp\\2.2.0\\taglibsharp.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

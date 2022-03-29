@@ -1,0 +1,13 @@
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\ConsoleApp1.exe
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.exe
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\ConsoleApp1.deps.json
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\ConsoleApp1.runtimeconfig.json
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.dll
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.deps.json
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.runtimeconfig.json
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.pdb
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\TagLibSharp.dll
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\ConsoleApp1.dll
+C:\Users\username\source\repos\WebApplication1\WebApplication2\obj\Release\net6.0\PubTmp\Out\ConsoleApp1.pdb
